@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HtmlShowApp</string>
+
+    <string name="search">Search</string>
+    <string name="clear_search">Clear</string>
+
+    <string name="network_error">Internet not available or not connected</string>
+    <string name="url_error">Incorrect url\nExample: http://www.yandex.ru</string>
+</resources>
